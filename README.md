@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/32w1ypy2sjngjb7p?svg=true)](https://ci.appveyor.com/project/TinaCapricorn/cardform)
